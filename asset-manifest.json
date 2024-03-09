@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-postoffice/static/css/main.44f8b8b5.css",
+    "main.js": "/react-postoffice/static/js/main.ac65f7e6.js",
+    "static/js/787.96f2bb44.chunk.js": "/react-postoffice/static/js/787.96f2bb44.chunk.js",
+    "index.html": "/react-postoffice/index.html",
+    "main.44f8b8b5.css.map": "/react-postoffice/static/css/main.44f8b8b5.css.map",
+    "main.ac65f7e6.js.map": "/react-postoffice/static/js/main.ac65f7e6.js.map",
+    "787.96f2bb44.chunk.js.map": "/react-postoffice/static/js/787.96f2bb44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.ac65f7e6.js"
+  ]
+}
